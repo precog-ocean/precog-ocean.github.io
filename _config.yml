@@ -26,6 +26,12 @@ minimal_mistakes_skin: dark
 search: true
 masthead_title: "PRECOG"
 enable_copy_code_button: true
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "About"
+    excerpt: "About the research"
+
 
 
 
