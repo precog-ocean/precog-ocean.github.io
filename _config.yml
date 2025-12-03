@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website for the UKRI-funded Future Leaders Fellowship "PRECOG" (PREdicting biological Carbon in the Ocean Globally)
 #twitter_username: username
 github_username: precog-ocean
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 masthead_title: "PRECOG"
-logo: "/assets/images/precog_logo.png"
+#logo: "/assets/images/precog_logo.png"
 enable_copy_code_button: true
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -67,20 +67,20 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "Jamie Wilson"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Woop"
-  links:
+#author:
+#  name   : "Jamie Wilson"
+#  avatar : "/assets/images/bio-photo.jpg"
+#  bio    : "Woop"
+#  links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
     #  url: "https://"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/JamieDWilson"
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/JamieDWilson"
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
@@ -119,6 +119,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+collections:
+  researchers:
+    sort_by: row 
+    output: true
 
 category_archive:
   type: liquid

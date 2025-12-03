@@ -26,13 +26,13 @@ feature_row:
     alt: "placeholder image 2"
     title: "Research Team"
     excerpt: "Meet the Research Team"
-    url: "/pages/researchteam"
+    url: "/researchteam"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/bio-photo.jpg
     title: "Updates"
     excerpt: "Something"
-    url: "/pages/researchteam"
+    url: "/researchteam"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
