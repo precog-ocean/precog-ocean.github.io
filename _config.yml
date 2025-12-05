@@ -67,23 +67,22 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# authors
 #author:
-#  name   : "Jamie Wilson"
-#  avatar : "/assets/images/bio-photo.jpg"
-#  bio    : "Woop"
+#  name: "Jamie Wilson"
+#  avatar: "/assets/images/profile_pictures/wilson.png"
+#  bio: "I am an **amazing** person." # Note: Markdown is allowed
+#  location: "Liverpool"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
 #  links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
-    #  url: "https://github.com/JamieDWilson"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+#      url: "https://github.com/JamieDWilson"
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/jamie-wilson-uol/"
+#    - label: "Google Scholar"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
 
 footer:
   links:
@@ -108,9 +107,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

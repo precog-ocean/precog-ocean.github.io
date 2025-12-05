@@ -33,7 +33,7 @@ feature_row:
   - image_path: assets/images/bgc_books.png
     title: "Research Outputs"
     excerpt: "Read about the research"
-    url: "/researchteam"
+    url: "/researchpapers"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
