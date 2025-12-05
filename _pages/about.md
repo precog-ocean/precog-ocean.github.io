@@ -1,9 +1,10 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 header:
   video:
-    id: Whra3j10IiY
+    id: ItRmAInrZWs
     provider: youtube
 ---
 

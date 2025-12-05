@@ -4,13 +4,14 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/squid2_copy.png
+  overlay_image: /assets/images/TARA_Liverpool.jpg
   caption: "Photo credit: [**NOAA**](https://unsplash.com)"
 excerpt: ""
 title: Research Team
 ---
 
-{% for staff in site.researchers %}
+{% assign ordered_pages = site.researchers | sort:"row" %}
+{% for staff in ordered_pages %}
   <h2>
     <a href="{{ staff.url }}">
     <p>
@@ -22,3 +23,4 @@ title: Research Team
   </h2>
   <p></p>
 {% endfor %}
+

@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 repository: precog-ocean/precog-ocean.github.io
-title: PRECOG
+title: ""
 email: jamie.wilson@liverpool.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the UKRI-funded Future Leaders Fellowship "PRECOG" (PREdicting biological Carbon in the Ocean Globally)
@@ -22,8 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: precog-ocean
 minimal_mistakes_skin: air
 search: true
-masthead_title: "PRECOG"
-#logo: "/assets/images/precog_logo.png"
+masthead_title: ""
+logo: "/assets/images/precog_logo_full.png"
 enable_copy_code_button: true
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
