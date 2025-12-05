@@ -14,14 +14,14 @@ header:
   caption: "Photo credit: [**NOAA**](https://unsplash.com)"
 excerpt: "PREdicting biological Carbon in the Ocean Globally."
 feature_row:
-  - image_path: assets/images/bio-photo.jpg
+  - image_path: assets/images/te_models.png
     alt: "placeholder image 1"
     title: "About"
     excerpt: "Learn more about the PRECOG project"
     url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/bio-photo.jpg
+  - image_path: assets/images/IMG_2737.png
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Research Team"
@@ -29,9 +29,9 @@ feature_row:
     url: "/researchteam"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/bio-photo.jpg
-    title: "Updates"
-    excerpt: "Something"
+  - image_path: assets/images/bgc_books.png
+    title: "Research Outputs"
+    excerpt: "Read about the research"
     url: "/researchteam"
     btn_label: "Read More"
     btn_class: "btn--primary"
