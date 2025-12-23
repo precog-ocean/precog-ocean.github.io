@@ -4,7 +4,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/TARA_Liverpool.jpg
+  overlay_image: /assets/images/Tara_Liverpool.jpg
   caption: "Photo credit: [**NOAA**](https://unsplash.com)"
 excerpt: ""
 title: Research Team
