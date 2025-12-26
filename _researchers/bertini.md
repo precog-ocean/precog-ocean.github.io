@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 author:
   name: "Leo Bertini"
-  avatar: "/assets/images/profile_pictures/wilson.png"
+  avatar: "/assets/images/profile_pictures/leo.jpeg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Liverpool"
   links:
@@ -18,7 +18,7 @@ author:
       url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
 
 name: Leo Bertini
-impath: "/assets/images/profile_pictures/wilson.png"
+impath: "/assets/images/profile_pictures/leo.jpeg"
 position: Postdoctoral Researcher
 row: 2
 title: Leo Bertini

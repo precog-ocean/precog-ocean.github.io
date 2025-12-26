@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 author:
   name: "Sam Ditkovsky"
-  avatar: "/assets/images/profile_pictures/wilson.png"
+  avatar: "/assets/images/profile_pictures/sam.jpeg"
   bio: "I am an **amazing** person." # Note: Markdown is allowed
   location: "Liverpool"
   links:
@@ -18,7 +18,7 @@ author:
       url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
 
 name: Sam Ditkovsky
-impath: "/assets/images/profile_pictures/wilson.png"
+impath: "/assets/images/profile_pictures/sam.jpeg"
 position: Postdoctoral Researcher
 row: 3
 title: Sam Ditkovsky
