@@ -2,7 +2,7 @@
 Jamie Wilson:
   name: "Jamie Wilson"
   avatar: "/assets/images/profile_pictures/wilson.png"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "Marine Biogoehcemical Modeller" # Note: Markdown is allowed
   location: "Liverpool"
   links:
     - label: "GitHub"

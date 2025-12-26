@@ -1,0 +1,13 @@
+{% assign ordered_pages = site.researchers | sort:"row" %}
+{% for staff in ordered_pages %}
+  <h2>
+    <a href="{{ staff.url }}">
+    <p>
+    <img src="{{ staff.impath }}"  style="float:right;width:110px;height:110px;">
+    {{ staff.name }} <br>
+    </p>
+    </a>
+    {{ staff.position }}
+  </h2>
+  <p></p>
+{% endfor %}
