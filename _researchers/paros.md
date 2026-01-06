@@ -12,7 +12,7 @@ author:
       url: "https://github.com/ChescaParos"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/francescaparos"
+      url: "https://linkedin.com/in/francescaparos"
 
 name: Francesca Paros
 impath: "/assets/images/profile_pictures/chesca.png"
