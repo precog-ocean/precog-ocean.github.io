@@ -16,7 +16,7 @@ title: Research Team
 | [Jamie Wilson](https://www.liverpool.ac.uk/people/jamie-wilson) <br/><br/> Principal Investigator   |   <img src="assets/images/profile_pictures/wilson.png" alt="Jamie Wilson" width="200"/>             |
 | [Leo Bertini](../_researchers/bertini.md) <br/><br/> Postdoctoral Researcher   |  <img src="assets/images/profile_pictures/leo.jpeg" alt="Leo Bertini" width="200"/>                         |
 | [Sam Ditkovsky](../_researchers/ditkovsky.md) <br/><br/> Postdoctoral Researcher | <img src="assets/images/profile_pictures/sam.jpeg" alt="Sam Ditkovsky" width="200"/>   |
-| [Chesca Paros](../_researchers/paros.md) <br/><br/> PhD Researcher | <img src="assets/images/profile_pictures/chesca.jpeg" alt="Chesca Paros" width="200"/>   |
+| [Chesca Paros](../_researchers/paros.md) <br/><br/> PhD Researcher | <img src="assets/images/profile_pictures/chesca.png" alt="Chesca Paros" width="200"/>   |
 
 
 |  Project Partners & Collaborators      |                                                                     |
