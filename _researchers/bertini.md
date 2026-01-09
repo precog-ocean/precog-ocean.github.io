@@ -4,18 +4,18 @@ author_profile: true
 author:
   name: "Leo Bertini"
   avatar: "/assets/images/profile_pictures/leo.jpeg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "I am an **amazing** person.." # Note: Markdown is allowed
   location: "Liverpool"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JamieDWilson"
+      url: "https://github.com/LeoBertini"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jamie-wilson-uol/"
+      url: "https://www.linkedin.com/in/leonardo-oceanographer/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=F9FdkGEAAAAJ&hl=en"
 
 name: Leo Bertini
 impath: "/assets/images/profile_pictures/leo.jpeg"
