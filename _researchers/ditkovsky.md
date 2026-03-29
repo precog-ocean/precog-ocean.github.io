@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 author:
   name: "Sam Ditkovsky"
-  avatar: "/assets/images/profile_pictures/sam.jpeg"
+  avatar: "/assets/images/profile_pictures/sam_pic.jpg"
   bio: "I am a physical and biogeochemical ocean modeler. My interests range across temporal and spacial scales, with a focus on ocean ventilation processes that influence heat, carbon and oxygen in changing climates" # Note: Markdown is allowed
   location: "Liverpool"
   links:
