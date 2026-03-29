@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/Tara_Liverpool.jpg
-  caption: "Photo credit: [**NOAA**](https://unsplash.com)"
+  caption: "Photo credit: [Tara Ocean Foundation](https://fondationtaraocean.org/en/home/)"
 excerpt: ""
 title: Publications
 ---
