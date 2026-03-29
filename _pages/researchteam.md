@@ -14,9 +14,9 @@ title: Research Team
 | Core Team       |                                                                     |
 | :----- | :---------------------------------------------------------------------- |
 | [Jamie Wilson](https://www.liverpool.ac.uk/people/jamie-wilson) <br/><br/> Principal Investigator   |   <img src="assets/images/profile_pictures/wilson.png" alt="Jamie Wilson" width="200"/>             |
-| [Leo Bertini](../_researchers/bertini.md) <br/><br/> Postdoctoral Researcher   |  <img src="assets/images/profile_pictures/leo.jpeg" alt="Leo Bertini" width="200"/>                         |
-| [Sam Ditkovsky](../_researchers/ditkovsky.md) <br/><br/> Postdoctoral Researcher | <img src="assets/images/profile_pictures/sam.jpeg" alt="Sam Ditkovsky" width="200"/>   |
-| [Francesca Paros](../_researchers/paros.md) <br/><br/> PhD Researcher | <img src="assets/images/profile_pictures/chesca.png" alt="Francesca Paros" width="200"/>   |
+| [Leo Bertini](https://orcid.org/0000-0003-3920-4476) <br/><br/> Postdoctoral Researcher   |  <img src="assets/images/profile_pictures/leo.jpeg" alt="Leo Bertini" width="200"/>                         |
+| [Sam Ditkovsky](https://orcid.org/0000-0002-4759-9829) <br/><br/> Postdoctoral Researcher | <img src="assets/images/profile_pictures/sam.jpeg" alt="Sam Ditkovsky" width="200"/>   |
+| [Francesca Paros](https://www.linkedin.com/in/francescaparos/) <br/><br/> PhD Researcher | <img src="assets/images/profile_pictures/chesca.png" alt="Francesca Paros" width="200"/>   |
 
 
 |  Project Partners & Collaborators      |                                                                     |

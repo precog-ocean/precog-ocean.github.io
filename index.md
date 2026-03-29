@@ -31,9 +31,9 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/bgc_books.png
-    title: "Research Outputs"
+    title: "Publications"
     excerpt: "Read about the research"
-    url: "/researchpapers"
+    url: "/publications"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
