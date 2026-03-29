@@ -4,7 +4,7 @@ author_profile: true
 author:
   name: "Sam Ditkovsky"
   avatar: "/assets/images/profile_pictures/sam.jpeg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
+  bio: "I am a physical and biogeochemical ocean modeler. My interests range across temporal and spacial scales, with a focus on ocean ventilation processes that influence heat, carbon and oxygen in changing climates" # Note: Markdown is allowed
   location: "Liverpool"
   links:
     - label: "GitHub"
@@ -18,7 +18,7 @@ author:
       url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
 
 name: Sam Ditkovsky
-impath: "/assets/images/profile_pictures/sam.jpeg"
+impath: "/assets/images/profile_pictures/sam_pic.jpg"
 position: Postdoctoral Researcher
 row: 3
 title: Sam Ditkovsky
