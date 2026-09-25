@@ -22,7 +22,7 @@ feature_row:
     url: "/about"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: assets/images/IMG_2737.png
+  - image_path: assets/images/challenger_group.png
     #image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Research Team"
@@ -38,10 +38,10 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<img src="/assets/images/precog_logos.png" 
+<img src="/assets/images/precog_funding_logos_plus_project.png" 
         alt="Picture" 
-        width="800" 
-        height="600" 
+        width="700" 
+        height="500" 
         style="display: block; margin: 0 auto" />
 
 {% include feature_row id="intro" type="center" %}
