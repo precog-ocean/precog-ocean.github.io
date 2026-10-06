@@ -5,3 +5,5 @@ main:
     url: /researchteam
   - title: "Publications"
     url: /publications
+  - title: "News"
+    url: /news
