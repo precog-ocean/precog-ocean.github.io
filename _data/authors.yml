@@ -14,3 +14,19 @@ Jamie Wilson:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.com/citations?user=_QtblUAAAAAJ&hl=en"
+
+Leo Bertini:
+  name: "Leo Bertini"
+  avatar: "/assets/images/profile_pictures/leo.jpeg"
+  bio: "Marine Biogoehcemical Modeller" # Note: Markdown is allowed
+  location: "Liverpool"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/LeoBertini"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/leonardo-oceanographer/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=F9FdkGEAAAAJ&hl=en"
