@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes";
+
+/* Smaller body text for blog posts */
+.layout--single .page__content p {
+  font-size: 0.2rem;
+  line-height: 1.6;
+}
+.page__content figure {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.page__content figure img {
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+  height: auto;
+  max-width: none;
+}
+
+.page__content figcaption {
+  margin-top: 0.5rem;
+}
