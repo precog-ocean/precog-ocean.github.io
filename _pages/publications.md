@@ -11,7 +11,8 @@ excerpt: ""
 title: Publications
 ---
 
-Bertini, L., et al., (Submitted) **precog-esgf-intake: Automated discovery, validation, and optimised download management of Earth system model data from Earth System Grid Federation nodes**  Submitted to Journal of Open Source Software.
+Bertini, L., et al., (Submitted) **precog-esgf-intake: Automated discovery, validation, and optimised download management of Earth system model data from Earth System Grid Federation nodes**  Submitted to Journal of Open Source Software.<br>
+[:point_right: Draft Manuscript](https://github.com/precog-ocean/precog-esgf-intake/blob/main/paper/paper.pdf)
 
 Wilson, J.D., Planchat, A., (Accepted) **Oceanic carbon cycle – The biological carbon pump**. Encyclopedia of Climate System Science. Elsevier. 
 
